@@ -7,3 +7,9 @@
 <script setup>
   const name = "Harindu Hadithya"
 </script>
+
+<style>
+  h1 {
+    color: red;
+  }
+</style>
